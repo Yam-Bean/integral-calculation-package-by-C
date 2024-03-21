@@ -1,0 +1,325 @@
+# depslib dependency file v1.0
+1575299711 source:c:\users\hp\desktop\big homework12.03\input.cpp
+	"headers.h"
+
+1575901576 c:\users\hp\desktop\big homework12.03\headers.h
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<cctype>
+	<limits>
+	<cfloat>
+	<cstring>
+	<string.h>
+	<limits.h>
+	<cstdlib>
+	<float.h>
+	<stdio.h>
+	<random>
+	<iostream>
+	<ctime>
+	<time.h>
+	<fstream>
+	<windows.h>
+
+1575357125 source:c:\users\hp\desktop\big homework12.03\simpson.cpp
+	"headers.h"
+
+1575947777 source:c:\users\hp\desktop\big homework12.03\definition.cpp
+	"headers.h"
+
+1575955999 source:c:\users\hp\desktop\big homework12.03\main.cpp
+	"headers.h"
+
+1575954587 source:c:\users\hp\desktop\big homework12.03\mcmc.cpp
+	"headers.h"
+
+1575361674 source:c:\users\hp\desktop\big homework12.03\find.cpp
+	"headers.h"
+
+1575955802 source:c:\users\hp\desktop\big homework12.03\point.cpp
+	"headers.h"
+
+1575960291 source:c:\users\hp\desktop\big homework12.10\definition.cpp
+	"headers.h"
+
+1576072049 c:\users\hp\desktop\big homework12.10\headers.h
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<cctype>
+	<limits>
+	<cfloat>
+	<cstring>
+	<string.h>
+	<limits.h>
+	<cstdlib>
+	<float.h>
+	<stdio.h>
+	<random>
+	<iostream>
+	<ctime>
+	<time.h>
+	<fstream>
+	<windows.h>
+	<iomanip>
+
+1576150268 source:c:\users\hp\desktop\big homework12.10\input.cpp
+	"headers.h"
+
+1575960291 source:c:\users\hp\desktop\big homework12.10\mcmc.cpp
+	"headers.h"
+
+1576151603 source:c:\users\hp\desktop\big homework12.10\point.cpp
+	"headers.h"
+
+1575960291 source:c:\users\hp\desktop\big homework12.10\simpson.cpp
+	"headers.h"
+
+1576150232 source:c:\users\hp\desktop\big homework12.10\main.cpp
+	"headers.h"
+
+1576385747 source:c:\users\hp\desktop\big homework12.12\input.cpp
+	"headers.h"
+
+1576385736 c:\users\hp\desktop\big homework12.12\headers.h
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<cctype>
+	<limits>
+	<cfloat>
+	<cstring>
+	<string.h>
+	<limits.h>
+	<cstdlib>
+	<float.h>
+	<stdio.h>
+	<random>
+	<iostream>
+	<ctime>
+	<time.h>
+	<fstream>
+	<windows.h>
+	<iomanip>
+
+1576385736 source:c:\users\hp\desktop\big homework12.12\definition.cpp
+	"headers.h"
+
+1576385933 source:c:\users\hp\desktop\big homework12.12\point.cpp
+	"headers.h"
+
+1576385789 source:c:\users\hp\desktop\big homework12.12\main.cpp
+	"headers.h"
+
+1576168738 source:c:\users\hp\desktop\big homework12.12\mcmc.cpp
+	"headers.h"
+
+1576168748 source:c:\users\hp\desktop\big homework12.12\simpson.cpp
+	"headers.h"
+
+1576205737 source:c:\users\hp\desktop\big homework12.12\trapezium.cpp
+	"headers.h"
+
+1576385736 source:c:\users\hp\desktop\big homework12.15 1506\definition.cpp
+	"headers.h"
+
+1576398255 c:\users\hp\desktop\big homework12.15 1506\headers.h
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<cctype>
+	<limits>
+	<cfloat>
+	<cstring>
+	<string.h>
+	<limits.h>
+	<cstdlib>
+	<float.h>
+	<stdio.h>
+	<random>
+	<iostream>
+	<ctime>
+	<time.h>
+	<fstream>
+	<windows.h>
+	<iomanip>
+
+1576385747 source:c:\users\hp\desktop\big homework12.15 1506\input.cpp
+	"headers.h"
+
+1576168738 source:c:\users\hp\desktop\big homework12.15 1506\mcmc.cpp
+	"headers.h"
+
+1576399989 source:c:\users\hp\desktop\big homework12.15 1506\point.cpp
+	"headers.h"
+
+1576168748 source:c:\users\hp\desktop\big homework12.15 1506\simpson.cpp
+	"headers.h"
+
+1576400192 source:c:\users\hp\desktop\big homework12.15 1506\trapezium.cpp
+	"headers.h"
+
+1576398770 source:c:\users\hp\desktop\big homework12.15 1506\main.cpp
+	"headers.h"
+
+1576459216 source:c:\users\hp\desktop\big homework12.15 1708\definition.cpp
+	"headers.h"
+
+1576431684 c:\users\hp\desktop\big homework12.15 1708\headers.h
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<cctype>
+	<limits>
+	<cfloat>
+	<cstring>
+	<string.h>
+	<limits.h>
+	<cstdlib>
+	<float.h>
+	<stdio.h>
+	<random>
+	<iostream>
+	<ctime>
+	<time.h>
+	<fstream>
+	<windows.h>
+	<iomanip>
+
+1576427949 source:c:\users\hp\desktop\big homework12.15 1708\input.cpp
+	"headers.h"
+
+1576430696 source:c:\users\hp\desktop\big homework12.15 1708\mcmc.cpp
+	"headers.h"
+
+1576411264 source:c:\users\hp\desktop\big homework12.15 1708\point.cpp
+	"headers.h"
+
+1576430624 source:c:\users\hp\desktop\big homework12.15 1708\simpson.cpp
+	"headers.h"
+
+1576431699 source:c:\users\hp\desktop\big homework12.15 1708\trapezium.cpp
+	"headers.h"
+
+1576431684 source:c:\users\hp\desktop\big homework12.15 1708\main.cpp
+	"headers.h"
+
+1576555963 source:c:\users\hp\desktop\big homework12.16 1708\definition.cpp
+	"headers.h"
+
+1576559222 c:\users\hp\desktop\big homework12.16 1708\headers.h
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<cctype>
+	<limits>
+	<cfloat>
+	<cstring>
+	<string.h>
+	<limits.h>
+	<cstdlib>
+	<float.h>
+	<stdio.h>
+	<random>
+	<iostream>
+	<ctime>
+	<time.h>
+	<fstream>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+
+1576481289 source:c:\users\hp\desktop\big homework12.16 1708\input.cpp
+	"headers.h"
+
+1577067249 source:c:\users\hp\desktop\big homework12.16 1708\main.cpp
+	"headers.h"
+
+1576559274 source:c:\users\hp\desktop\big homework12.16 1708\mcmc.cpp
+	"headers.h"
+
+1576460124 source:c:\users\hp\desktop\big homework12.16 1708\point.cpp
+	"headers.h"
+
+1576555963 source:c:\users\hp\desktop\big homework12.16 1708\simpson.cpp
+	"headers.h"
+
+1576555963 source:c:\users\hp\desktop\big homework12.16 1708\trapezium.cpp
+	"headers.h"
+
+1576555963 source:e:\我\我做出来的东西\c艹\第六组 c++定积分计算包\big homework12.16 1708\definition.cpp
+	"headers.h"
+
+1576559222 e:\我\我做出来的东西\c艹\第六组 c++定积分计算包\big homework12.16 1708\headers.h
+	<iostream>
+	<math.h>
+	<string>
+	<ctime>
+	<conio.h>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<cctype>
+	<limits>
+	<cfloat>
+	<cstring>
+	<string.h>
+	<limits.h>
+	<cstdlib>
+	<float.h>
+	<stdio.h>
+	<random>
+	<iostream>
+	<ctime>
+	<time.h>
+	<fstream>
+	<windows.h>
+	<iomanip>
+	<conio.h>
+
+1576481289 source:e:\我\我做出来的东西\c艹\第六组 c++定积分计算包\big homework12.16 1708\input.cpp
+	"headers.h"
+
+1576559274 source:e:\我\我做出来的东西\c艹\第六组 c++定积分计算包\big homework12.16 1708\mcmc.cpp
+	"headers.h"
+
+1576460124 source:e:\我\我做出来的东西\c艹\第六组 c++定积分计算包\big homework12.16 1708\point.cpp
+	"headers.h"
+
+1576555963 source:e:\我\我做出来的东西\c艹\第六组 c++定积分计算包\big homework12.16 1708\simpson.cpp
+	"headers.h"
+
+1576555963 source:e:\我\我做出来的东西\c艹\第六组 c++定积分计算包\big homework12.16 1708\trapezium.cpp
+	"headers.h"
+
